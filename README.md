@@ -14,7 +14,7 @@ vue-zo is a plugin for [Vue.js](https://vuejs.org/) & [Nuxt.js](https://nuxtjs.o
 ## Installation
 
 ```cmd
-npm install vue-zo --save-dev
+pnpm install vue3-permissions
 ```
 ## Features
 
