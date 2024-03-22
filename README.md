@@ -28,7 +28,7 @@ npm install vue-zo --save-dev
 - TypeScript support
 
 ## documentation
-[Docs](https://github.com/thonymg/vue-zo/tree/master/docs)
+[Docs](https://github.com/raizdev/vue3-permissions/tree/master/docs)
 
 ## 🙈 Credits
 
